@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0.2"
+
+cards:
+  message: "Welcome to PKM bank Card related local APIs"
+  contactDetails:
+    name: "Aarush Mishra - QA"
+    email: "aarush@pkmbank.com"
+  onCallSupport:
+    8888888811,
+    7777777711

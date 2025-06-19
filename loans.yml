@@ -1,0 +1,11 @@
+build:
+  version: "1.0.1"
+
+loans:
+  message: "Welcome to PKM bank Loans related local APIs"
+  contactDetails:
+    name: "Jason Tom - Dev"
+    email: "jason@pkmbank.com"
+  onCallSupport:
+    6666666600,
+    5555555500

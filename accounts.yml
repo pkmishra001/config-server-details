@@ -1,0 +1,12 @@
+build:
+  version: "1.0.1"
+
+
+accounts:
+  message: "Welcome to PKM bank account related local APIs"
+  contactDetails:
+    name: "John Smith - Dev"
+    email: "john@pkmbank.com"
+  onCallSupport:
+    8080808080,
+    7070707070

@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0.1"
+
+cards:
+  message: "Welcome to PKM bank Card related local APIs"
+  contactDetails:
+    name: "Pankaj Tiwari - Dev"
+    email: "pankaj@pkmbank.com"
+  onCallSupport:
+    8888888800,
+    7777777700

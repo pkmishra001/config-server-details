@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0.3"
+
+cards:
+  message: "Welcome to PKM bank Card related local APIs"
+  contactDetails:
+    name: "Arvind Mishra - BA"
+    email: "arvind@pkmbank.com"
+  onCallSupport:
+    8888888822,
+    7777777722
