@@ -3,7 +3,7 @@ build:
   version: "1.0.3"
 
 cards:
-  message: "Welcome to PKM bank Card related local APIs"
+  message: "Welcome to PKM bank Card related production APIs"
   contactDetails:
     name: "Arvind Mishra - BA"
     email: "arvind@pkmbank.com"
