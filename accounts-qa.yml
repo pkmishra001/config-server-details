@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to PKM bank account related QA APIs"
   contactDetails:
     name: "Lisa Ray - QA"
-    email: "{cipher}6d021c0ce8df380c08f0151c3fcc95eb18154ca55ef4515c6ebc66cb60c390265ef54420eaf7312bb819edc4497bcd55"
+    email: "{cipher}c94104532e5e5778b02f9bf885b05f902e45260f193017790cc3abec47192606dd4fa4dcb3341d478b67e73b30f3dcc8"
   onCallSupport:
     8181818181,
     7171717171
