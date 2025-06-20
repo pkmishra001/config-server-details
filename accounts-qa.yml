@@ -3,7 +3,7 @@ build:
   version: "1.0.2"
 
 accounts:
-  message: "Welcome to PKM bank account related QA APIs"
+  message: "Welcome to PKM bank account related QA all APIs"
   contactDetails:
     name: "Lisa Ray - QA"
     email: "{cipher}c94104532e5e5778b02f9bf885b05f902e45260f193017790cc3abec47192606dd4fa4dcb3341d478b67e73b30f3dcc8"
