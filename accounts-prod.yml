@@ -3,6 +3,7 @@ build:
 
 accounts:
   message: "Welcome to PKM bank account related PRODUCTION APIs"
+  buildVersion: 1.0.38
   contactDetails:
     name: "Mark Smith - BA"
     email: "mark@pkmbank.com"
