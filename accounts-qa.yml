@@ -5,8 +5,8 @@ build:
 accounts:
   message: "Welcome to PKM bank account related QA all APIs"
   contactDetails:
-    name: "Lisa Ray - QA"
-    email: "{cipher}c94104532e5e5778b02f9bf885b05f902e45260f193017790cc3abec47192606dd4fa4dcb3341d478b67e73b30f3dcc8"
+    name: "{cipher}bf016d1521735d9a65f889a57d8cae9752f0a8c8ea5d578363f3e35d80bbe4ec"
+    email: "{cipher}076f968946bbf3ea11985e9caf4cadb5b4ee06d149613c2b77208f25f6e52e11536424e7210dcc1e52757a8c2b0f1637"
   onCallSupport:
     8181818181,
     7171717171
